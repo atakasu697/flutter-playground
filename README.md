@@ -1,16 +1,30 @@
-# playground
+# flutter-playground
 
-A new Flutter project.
+image or gif
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+flutterのサンプルコード集
 
-A few resources to get you started if this is your first Flutter project:
+## Requirement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart version 2.18.2
+- Flutter version 3.3.5
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+git clone ...
+cd flutter-playground
+fvm flutter run ...
+
+## Features
+
+## Reference
+
+## Author
+
+<!-- [twitter](https://twitter.com/Kotabrog) -->
+
+## Licence
+
+[MIT](https://......)
